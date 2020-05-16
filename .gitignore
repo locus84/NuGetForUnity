@@ -2,6 +2,9 @@
 [Tt]emp/
 [Oo]bj/
 [Bb]uild/
+Assets/NugetPackages/
+Assets/NugetPackages.meta
+
 
 # Visual Studio 2015 cache directory
 /.vs/
